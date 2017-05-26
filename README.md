@@ -1,4 +1,4 @@
-#3SC JavaScript/Backbone Task
+# 3SC JavaScript/Backbone Task
 
 ### Getting Started
  - Fork this task repository
